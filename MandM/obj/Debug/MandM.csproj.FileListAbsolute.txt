@@ -1,0 +1,15 @@
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\Bin\Debug\MandM.dll
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\Bin\Debug\MandM.pdb
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\Bin\Debug\AppManifest.xaml
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\Bin\Debug\MandM.xap
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\Bin\Debug\MandMTestPage.html
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\App.g.i.cs
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MainPage.g.i.cs
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MandMView.g.i.cs
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MandM.g.resources
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MandM.dll
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MandM.pdb
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\XapCacheFile.xml
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\EaterView.g.i.cs
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM\obj\Debug\MandMViewSb.g.i.cs

@@ -1,0 +1,5 @@
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM.Web\bin\MandM.Web.dll
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM.Web\bin\MandM.Web.pdb
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM.Web\obj\Debug\MandM.Web.dll
+C:\Users\illusion2\documents\visual studio 2010\Projects\MandM\MandM.Web\obj\Debug\MandM.Web.pdb
